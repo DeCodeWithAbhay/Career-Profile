@@ -65,3 +65,15 @@ footer {
     color: #fff;
 }
 
+/* Remove space between heading and paragraph */
+h3, p {
+    margin: 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+h4, ul {
+    margin: 5px;
+}
